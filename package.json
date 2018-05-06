@@ -1,7 +1,13 @@
 {
   "name": "MARK-I",
   "description": "MARK-I Project",
-  "keywords": ["firebase", "firebase-functions", "cloud functions", "es6+", "babel" ],
+  "keywords": [
+    "firebase",
+    "firebase-functions",
+    "cloud functions",
+    "es6+",
+    "babel"
+  ],
   "private": true,
   "version": "1.0.0",
   "scripts": {

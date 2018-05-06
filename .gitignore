@@ -1,5 +1,6 @@
 # Generated Sources
 dist/functions
+package-lock.json
 
 # Firebse Credentials
 credentials.json
